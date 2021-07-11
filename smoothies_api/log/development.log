@@ -1700,3 +1700,1233 @@ Processing by ReviewsController#index as */*
 Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.1ms | Allocations: 957)
 
 
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:40:04 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:40:31 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:40:32 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:40:50 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:50:12 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:50:12 -0400
+Processing by SmoothiesController#index as */*
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 76ms (Views: 18.1ms | ActiveRecord: 1.8ms | Allocations: 9873)
+
+
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:50:13 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:50:13 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.3ms | Allocations: 1354)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:50:50 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:50:50 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.3ms | Allocations: 1388)
+
+
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:52:21 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:52:21 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.2ms | Allocations: 1377)
+
+
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:52:48 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:53:26 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:55:53 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:55:54 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:55:55 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:56:43 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:56:45 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:57:12 -0400
+  
+SyntaxError (/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+...message: 'Comment' successfully deleted}
+...                   ^~~~~~~~~~~~
+/Users/angelicabrantley/Development/js-api/smoothies_api/app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/reviews_controller.rb:39: syntax error, unexpected local variable or method, expecting '}'
+app/controllers/reviews_controller.rb:53: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/reviews" for ::1 at 2021-07-11 10:58:12 -0400
+Processing by ReviewsController#index as HTML
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  [1m[36mReview Load (0.6ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 15ms (Views: 9.3ms | ActiveRecord: 1.5ms | Allocations: 5134)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:58:28 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:58:28 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.2ms | Allocations: 968)
+
+
+Processing by SmoothiesController#index as */*
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (1.0ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 28ms (Views: 21.5ms | ActiveRecord: 1.5ms | Allocations: 4897)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 10:59:58 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 10:59:58 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.8ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[36mSmoothie Load (0.7ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 7.1ms | ActiveRecord: 0.8ms | Allocations: 1601)
+
+
+Completed 200 OK in 8ms (Views: 6.4ms | ActiveRecord: 0.7ms | Allocations: 2176)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:01:52 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:01:52 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.2ms | Allocations: 2150)
+
+
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.2ms | Allocations: 1560)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:01:54 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:01:54 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.7ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Processing by SmoothiesController#index as */*
+Completed 200 OK in 8ms (Views: 6.5ms | ActiveRecord: 0.7ms | Allocations: 1139)
+
+
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.3ms | Allocations: 1572)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:02:07 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:02:07 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+Processing by ReviewsController#index as */*
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.2ms | Allocations: 1553)
+
+
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.2ms | Allocations: 1969)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:02:37 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:02:37 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.2ms | Allocations: 1334)
+
+
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.2ms | Allocations: 2566)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:03:51 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:03:51 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.1ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Processing by SmoothiesController#index as */*
+Completed 200 OK in 15ms (Views: 14.4ms | ActiveRecord: 0.1ms | Allocations: 1131)
+
+
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.3ms | Allocations: 1572)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:04:18 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:04:18 -0400
+Processing by SmoothiesController#index as */*
+Processing by ReviewsController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.2ms | Allocations: 1916)
+
+
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.3ms | Allocations: 2129)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:05:16 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:05:16 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.1ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.1ms | Allocations: 1560)
+
+
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.1ms | Allocations: 1939)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:17:54 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:17:54 -0400
+Processing by ReviewsController#index as */*
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  [1m[36mReview Load (0.7ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+Processing by SmoothiesController#index as */*
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 1.3ms | Allocations: 1924)
+
+
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (1.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 16ms (Views: 13.2ms | ActiveRecord: 1.9ms | Allocations: 2557)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:18:20 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:18:20 -0400
+Processing by SmoothiesController#index as */*
+Processing by ReviewsController#index as */*
+  [1m[36mSmoothie Load (0.4ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 10ms (Views: 8.8ms | ActiveRecord: 0.4ms | Allocations: 1917)
+
+
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.2ms | Allocations: 2130)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:20:29 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:20:29 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.8ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.8ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.8ms | Allocations: 2534)
+
+
+Completed 200 OK in 6ms (Views: 3.6ms | ActiveRecord: 0.8ms | Allocations: 972)
+
+
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" /* loading for inspect */ LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (1.8ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 6]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (1.8ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 5]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (2.0ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 4]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:22:34 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:22:34 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.4ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 37ms (Views: 7.9ms | ActiveRecord: 0.9ms | Allocations: 7320)
+
+
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 6.6ms | ActiveRecord: 0.9ms | Allocations: 4469)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:25:52 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:25:52 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.9ms | Allocations: 1981)
+
+
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.2ms | Allocations: 2831)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:29:40 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:29:40 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.1ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 5.2ms | ActiveRecord: 0.1ms | Allocations: 1714)
+
+
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.2ms | Allocations: 1796)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:30:20 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:30:20 -0400
+Processing by SmoothiesController#index as */*
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.3ms | Allocations: 1372)
+
+
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.2ms | Allocations: 1995)
+
+
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" /* loading for inspect */ LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mSmoothie Destroy (2.0ms)[0m  [1m[31mDELETE FROM "smoothies"[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mReview Destroy (1.2ms)[0m  [1m[31mDELETE FROM "reviews"[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.5ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Green Hulk"], ["image", "https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"], ["created_at", "2021-07-11 15:36:21.829846"], ["updated_at", "2021-07-11 15:36:21.829846"]]
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.4ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Captain Berry"], ["image", "https://cdn.pixabay.com/photo/2020/01/09/04/21/smoothie-4751820_1280.jpg"], ["created_at", "2021-07-11 15:36:21.834690"], ["updated_at", "2021-07-11 15:36:21.834690"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.3ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Mango King"], ["image", "https://cdn.pixabay.com/photo/2017/05/05/01/50/smoothie-2285722_1280.jpg"], ["created_at", "2021-07-11 15:36:21.839236"], ["updated_at", "2021-07-11 15:36:21.839236"]]
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.3ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Coco Loco"], ["image", "https://cdn.pixabay.com/photo/2016/08/05/16/40/coconut-1572595_1280.jpg"], ["created_at", "2021-07-11 15:36:21.843192"], ["updated_at", "2021-07-11 15:36:21.843192"]]
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[31mrollback transaction[0m
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:36:58 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:36:58 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.6ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 19ms (Views: 7.6ms | ActiveRecord: 0.6ms | Allocations: 6040)
+
+
+Completed 200 OK in 17ms (Views: 11.6ms | ActiveRecord: 1.6ms | Allocations: 6566)
+
+
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" /* loading for inspect */ LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mReview Load (0.4ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews" ORDER BY "reviews"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.4ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Green Hulk"], ["image", "https://images.pexels.com/photos/1346347/pexels-photo-1346347.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"], ["created_at", "2021-07-11 15:39:21.282854"], ["updated_at", "2021-07-11 15:39:21.282854"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.4ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Captain Berry"], ["image", "https://cdn.pixabay.com/photo/2020/01/09/04/21/smoothie-4751820_1280.jpg"], ["created_at", "2021-07-11 15:39:21.297382"], ["updated_at", "2021-07-11 15:39:21.297382"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.3ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Mango King"], ["image", "https://cdn.pixabay.com/photo/2017/05/05/01/50/smoothie-2285722_1280.jpg"], ["created_at", "2021-07-11 15:39:21.302122"], ["updated_at", "2021-07-11 15:39:21.302122"]]
+  [1m[36mTRANSACTION (1.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Create (0.4ms)[0m  [1m[32mINSERT INTO "smoothies" ("flavor", "image", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["flavor", "Coco Loco"], ["image", "https://cdn.pixabay.com/photo/2016/08/05/16/40/coconut-1572595_1280.jpg"], ["created_at", "2021-07-11 15:39:21.313509"], ["updated_at", "2021-07-11 15:39:21.313509"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  [1m[36mReview Create (0.3ms)[0m  [1m[32mINSERT INTO "reviews" ("comment", "smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["comment", "this smoothie is very Good"], ["smoothie_id", 7], ["created_at", "2021-07-11 15:39:21.340773"], ["updated_at", "2021-07-11 15:39:21.340773"]]
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  [1m[36mReview Create (0.3ms)[0m  [1m[32mINSERT INTO "reviews" ("comment", "smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["comment", "The captain berry is my favorite."], ["smoothie_id", 8], ["created_at", "2021-07-11 15:39:21.346672"], ["updated_at", "2021-07-11 15:39:21.346672"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  [1m[36mReview Create (0.3ms)[0m  [1m[32mINSERT INTO "reviews" ("comment", "smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["comment", "Mango king is my first favorite and Green hulk is my second."], ["smoothie_id", 9], ["created_at", "2021-07-11 15:39:21.352138"], ["updated_at", "2021-07-11 15:39:21.352138"]]
+  [1m[36mTRANSACTION (1.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" /* loading for inspect */ LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (2.1ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 14]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (2.1ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 13]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (2.0ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 12]]
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" ORDER BY "smoothies"."id" DESC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[36mSmoothie Destroy (1.9ms)[0m  [1m[31mDELETE FROM "smoothies" WHERE "smoothies"."id" = ?[0m  [["id", 11]]
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:40:36 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:40:36 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+Processing by ReviewsController#index as */*
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 24ms (Views: 11.9ms | ActiveRecord: 0.9ms | Allocations: 8829)
+
+
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 22ms (Views: 18.4ms | ActiveRecord: 1.2ms | Allocations: 8735)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:41:01 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:41:01 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  [1m[36mReview Load (0.1ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.1ms | Allocations: 1514)
+
+
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.1ms | Allocations: 2122)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:46:43 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:46:43 -0400
+Processing by SmoothiesController#index as */*
+Processing by ReviewsController#index as */*
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 13ms (Views: 12.3ms | ActiveRecord: 0.8ms | Allocations: 2991)
+
+
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.7ms | Allocations: 3017)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:47:47 -0400
+Processing by SmoothiesController#index as */*
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:47:47 -0400
+  [1m[36mSmoothie Load (0.7ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Processing by ReviewsController#index as */*
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.7ms | Allocations: 1316)
+
+
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 33ms (Views: 32.0ms | ActiveRecord: 0.3ms | Allocations: 1225)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:48:06 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:48:06 -0400
+Processing by ReviewsController#index as */*
+Processing by SmoothiesController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.2ms | Allocations: 1548)
+
+
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.2ms | Allocations: 1912)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:52:39 -0400
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:52:39 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+Processing by SmoothiesController#index as */*
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.4ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+Completed 200 OK in 6ms (Views: 4.7ms | ActiveRecord: 0.3ms | Allocations: 1146)
+
+
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 9ms (Views: 7.6ms | ActiveRecord: 0.4ms | Allocations: 2041)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:53:27 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.3ms | Allocations: 973)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:53:27 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:54:56 -0400
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:54:56 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (1.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 1.1ms | Allocations: 1279)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:18 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.3ms | Allocations: 1098)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:18 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.3ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:58:18 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 0.3ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:29 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.1ms | Allocations: 1098)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:29 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (4.4ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 2.2ms | ActiveRecord: 4.4ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:58:29 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:51 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.4ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.4ms | Allocations: 1099)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:58:51 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.8ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.8ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:58:51 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.9ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.9ms | Allocations: 957)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:59:01 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:59:30 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:59:30 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 11:59:45 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (1.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 4.8ms | ActiveRecord: 1.3ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:59:45 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.3ms | Allocations: 957)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 11:59:55 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 26ms (Views: 24.8ms | ActiveRecord: 0.3ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:01:20 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 27ms (Views: 26.0ms | ActiveRecord: 0.2ms | Allocations: 1099)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:01:20 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.2ms | Allocations: 958)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:04:43 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:04:43 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.4ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.4ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:05:13 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:05:13 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:18:34 -0400
+Processing by SmoothiesController#index as */*
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.7ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 1.5ms | Allocations: 1669)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:18:34 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.7ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.7ms | Allocations: 972)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:18:39 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"comment"=>"hi", "smoothie_id"=>"7", "review"=>{"comment"=>"hi", "smoothie_id"=>"7"}}
+[31mUnpermitted parameter: :comment[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mReview Create (1.3ms)[0m  [1m[32mINSERT INTO "reviews" ("smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["smoothie_id", 7], ["created_at", "2021-07-11 16:18:40.019561"], ["updated_at", "2021-07-11 16:18:40.019561"]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+Completed 201 Created in 41ms (Views: 1.0ms | ActiveRecord: 2.6ms | Allocations: 6512)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:18:41 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"comment"=>"hi", "smoothie_id"=>"7", "review"=>{"comment"=>"hi", "smoothie_id"=>"7"}}
+[31mUnpermitted parameter: :comment[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mReview Create (0.4ms)[0m  [1m[32mINSERT INTO "reviews" ("smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["smoothie_id", 7], ["created_at", "2021-07-11 16:18:41.805664"], ["updated_at", "2021-07-11 16:18:41.805664"]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (1.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+Completed 201 Created in 7ms (Views: 0.5ms | ActiveRecord: 1.9ms | Allocations: 2696)
+
+
+Started DELETE "/reviews/undefined" for 127.0.0.1 at 2021-07-11 12:18:45 -0400
+Processing by ReviewsController#destroy as */*
+  Parameters: {"id"=>"undefined", "review"=>{}}
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews" WHERE "reviews"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:46:in `set_review'
+Completed 404 Not Found in 2ms (ActiveRecord: 0.2ms | Allocations: 651)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Review with 'id'=undefined):
+  
+app/controllers/reviews_controller.rb:46:in `set_review'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:20:00 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.2ms | Allocations: 1097)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:20:00 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.2ms | Allocations: 1161)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:20:15 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"comment"=>"yummm", "smoothie_id"=>"7", "review"=>{"comment"=>"yummm", "smoothie_id"=>"7"}}
+[31mUnpermitted parameter: :comment[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mReview Create (0.5ms)[0m  [1m[32mINSERT INTO "reviews" ("smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["smoothie_id", 7], ["created_at", "2021-07-11 16:20:15.706756"], ["updated_at", "2021-07-11 16:20:15.706756"]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+Completed 201 Created in 20ms (Views: 3.1ms | ActiveRecord: 1.9ms | Allocations: 2696)
+
+
+Started DELETE "/reviews/8" for 127.0.0.1 at 2021-07-11 12:20:19 -0400
+Processing by ReviewsController#destroy as */*
+  Parameters: {"id"=>"8", "review"=>{}}
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews" WHERE "reviews"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:46:in `set_review'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mReview Destroy (0.4ms)[0m  [1m[31mDELETE FROM "reviews" WHERE "reviews"."id" = ?[0m  [["id", 8]]
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mTRANSACTION (1.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+Completed 200 OK in 7ms (Views: 0.2ms | ActiveRecord: 1.9ms | Allocations: 1910)
+
+
+Started DELETE "/reviews/7" for 127.0.0.1 at 2021-07-11 12:20:24 -0400
+Processing by ReviewsController#destroy as */*
+  Parameters: {"id"=>"7", "review"=>{}}
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews" WHERE "reviews"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:46:in `set_review'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mReview Destroy (0.4ms)[0m  [1m[31mDELETE FROM "reviews" WHERE "reviews"."id" = ?[0m  [["id", 7]]
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+Completed 200 OK in 6ms (Views: 0.2ms | ActiveRecord: 1.6ms | Allocations: 1826)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:20:37 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.3ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:20:37 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.2ms | Allocations: 1059)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:24:28 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:24:28 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.2ms | Allocations: 1059)
+
+
+Started DELETE "/reviews/9" for 127.0.0.1 at 2021-07-11 12:24:41 -0400
+Processing by ReviewsController#destroy as */*
+  Parameters: {"id"=>"9", "review"=>{}}
+  [1m[36mReview Load (0.1ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews" WHERE "reviews"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:46:in `set_review'
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mReview Destroy (1.5ms)[0m  [1m[31mDELETE FROM "reviews" WHERE "reviews"."id" = ?[0m  [["id", 9]]
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:38:in `destroy'
+Completed 200 OK in 7ms (Views: 0.3ms | ActiveRecord: 3.0ms | Allocations: 1826)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:24:53 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"review"=>{}}
+Completed 400 Bad Request in 0ms (ActiveRecord: 0.0ms | Allocations: 179)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: review
+Did you mean?  review
+               controller
+               action):
+  
+app/controllers/reviews_controller.rb:51:in `review_params'
+app/controllers/reviews_controller.rb:18:in `create'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:26:11 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.3ms | Allocations: 1097)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:26:11 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.4ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.4ms | Allocations: 957)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:26:20 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"review"=>{}}
+Completed 400 Bad Request in 0ms (ActiveRecord: 0.0ms | Allocations: 148)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: review
+Did you mean?  review
+               controller
+               action):
+  
+app/controllers/reviews_controller.rb:51:in `review_params'
+app/controllers/reviews_controller.rb:18:in `create'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:27:54 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.2ms | Allocations: 1097)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:27:54 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.3ms | Allocations: 957)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:27:59 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"review"=>{}}
+Completed 400 Bad Request in 0ms (ActiveRecord: 0.0ms | Allocations: 148)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: review
+Did you mean?  review
+               controller
+               action):
+  
+app/controllers/reviews_controller.rb:51:in `review_params'
+app/controllers/reviews_controller.rb:18:in `create'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:29:57 -0400
+Processing by SmoothiesController#index as */*
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 15ms (Views: 10.6ms | ActiveRecord: 1.8ms | Allocations: 5228)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:29:57 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.3ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 12ms (Views: 7.3ms | ActiveRecord: 1.0ms | Allocations: 5016)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:30:02 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"review"=>{}}
+Completed 400 Bad Request in 0ms (ActiveRecord: 0.0ms | Allocations: 154)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: review
+Did you mean?  review
+               controller
+               action):
+  
+app/controllers/reviews_controller.rb:51:in `review_params'
+app/controllers/reviews_controller.rb:18:in `create'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:31:05 -0400
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 19ms (Views: 7.7ms | ActiveRecord: 0.9ms | Allocations: 7732)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:31:05 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 16ms (Views: 9.4ms | ActiveRecord: 1.2ms | Allocations: 4147)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:31:11 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"review"=>{}}
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms | Allocations: 215)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: review
+Did you mean?  review
+               controller
+               action):
+  
+app/controllers/reviews_controller.rb:51:in `review_params'
+app/controllers/reviews_controller.rb:18:in `create'
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:36:12 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (2.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 2.3ms | ActiveRecord: 2.3ms | Allocations: 1115)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:36:12 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:38:06 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.2ms | Allocations: 1112)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:38:06 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.2ms | Allocations: 957)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:38:11 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"comment"=>"so good", "smoothie_id"=>7, "review"=>{"comment"=>"so good", "smoothie_id"=>7}}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mSmoothie Load (0.3ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mReview Create (2.8ms)[0m  [1m[32mINSERT INTO "reviews" ("comment", "smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["comment", "so good"], ["smoothie_id", 7], ["created_at", "2021-07-11 16:38:11.925303"], ["updated_at", "2021-07-11 16:38:11.925303"]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+Completed 201 Created in 40ms (Views: 1.3ms | ActiveRecord: 5.5ms | Allocations: 6491)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:38:19 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.2ms | Allocations: 1099)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:38:19 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.2ms | Allocations: 1065)
+
+
+Started POST "/reviews" for 127.0.0.1 at 2021-07-11 12:38:37 -0400
+Processing by ReviewsController#create as JSON
+  Parameters: {"comment"=>"awesome", "smoothie_id"=>9, "review"=>{"comment"=>"awesome", "smoothie_id"=>9}}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mSmoothie Load (0.1ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies" WHERE "smoothies"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mReview Create (0.4ms)[0m  [1m[32mINSERT INTO "reviews" ("comment", "smoothie_id", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["comment", "awesome"], ["smoothie_id", 9], ["created_at", "2021-07-11 16:38:37.815303"], ["updated_at", "2021-07-11 16:38:37.815303"]]
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+  [1m[36mTRANSACTION (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/reviews_controller.rb:20:in `create'
+Completed 201 Created in 6ms (Views: 0.5ms | ActiveRecord: 1.3ms | Allocations: 2698)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:38:41 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.6ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.6ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:38:42 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.2ms | Allocations: 1172)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:39:33 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.2ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:39:33 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.2ms | Allocations: 1172)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:43:13 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.2ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.2ms | Allocations: 1099)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:43:13 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.2ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.2ms | Allocations: 1172)
+
+
+Started GET "/smoothies" for 127.0.0.1 at 2021-07-11 12:44:20 -0400
+Processing by SmoothiesController#index as */*
+  [1m[36mSmoothie Load (0.4ms)[0m  [1m[34mSELECT "smoothies".* FROM "smoothies"[0m
+  ↳ app/controllers/smoothies_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.4ms | Allocations: 1098)
+
+
+Started GET "/reviews" for 127.0.0.1 at 2021-07-11 12:44:20 -0400
+Processing by ReviewsController#index as */*
+  [1m[36mReview Load (0.4ms)[0m  [1m[34mSELECT "reviews".* FROM "reviews"[0m
+  ↳ app/controllers/reviews_controller.rb:8:in `index'
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.4ms | Allocations: 1172)
+
+

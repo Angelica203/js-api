@@ -36,7 +36,7 @@ class ReviewsController < ApplicationController
   # DELETE /reviews/1
   def destroy
     @review.destroy
-    render json: {message: 'Comment' successfully deleted}
+    render json: {message: 'Comment successfully deleted'}
 
   end
 
@@ -48,6 +48,6 @@ class ReviewsController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def review_params
-      params.require(:review).permit(:comments, :smoothie_id)
+      params.require(:review).permit(:comment, :smoothie_id)
     end
 end
